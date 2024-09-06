@@ -1,5 +1,5 @@
 ---
-title: 'Just do the one thing'
+title: 'Mindfulness for Everyone '
 category: 'brain'
 ---
 
