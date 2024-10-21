@@ -3,4 +3,4 @@ title: 'Just do the one thing'
 category: 'brain'
 ---
 
-Mindfulness can improve mental health and overall well-being.
+Doing only one thing at a time can help you focus and be more productive.
