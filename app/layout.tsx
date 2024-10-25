@@ -1,7 +1,6 @@
-import "../styles/globals.css"; // Import global styles for the application
+import "../styles/globals.css";
 import Navbar from "./components/Navbar";
 
-// Root layout component that wraps around all pages
 export default function RootLayout({
   children,
 }: {
@@ -9,8 +8,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>
-        <Navbar /> {/* Render the Navbar at the top */}
+      <body className="bg-nosferatu-900">
+        <Navbar />
         <main className="pt-16"> {children}</main>
       </body>
     </html>
