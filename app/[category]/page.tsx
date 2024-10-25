@@ -48,7 +48,8 @@ export default function CategoryPage({
   }, [params.category]);
 
   // Show a loading message while fetching
-  if (isLoading) return <p className="text-center">Loading...</p>;
+  if (isLoading)
+    return <p className="text-center text-dracula-200">Loading...</p>;
 
   // Display posts or a message if no posts are available
   return (
