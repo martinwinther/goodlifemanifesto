@@ -1,6 +1,6 @@
 ---
 title: 'Fitness Goals'
-category: 'health'
+category: 'advanced'
 ---
 
 Tips for fitness.

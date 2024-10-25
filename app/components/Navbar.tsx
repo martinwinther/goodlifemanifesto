@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
-const categories = ["core", "health", "brain", "money"];
+const categories = ["core", "advanced", "expert"];
 
 // Navbar component to display navigation links
 export default function Navbar() {

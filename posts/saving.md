@@ -1,6 +1,6 @@
 ---
 title: 'Saving for Retirement'
-category: 'money'
+category: 'advanced'
 ---
 
 Saving for retirement is crucial for financial security in your later years.

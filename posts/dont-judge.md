@@ -1,6 +1,6 @@
 ---
 title: 'Dont be judgemental'
-category: 'core'
+category: 'expert'
 ---
 
 Dont judge others, just be kind.

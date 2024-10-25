@@ -1,6 +1,6 @@
 ---
 title: 'Mindfulness for Beginners'
-category: 'brain'
+category: 'advanced'
 ---
 
 Mindfulness can improve mental health and overall well-being.

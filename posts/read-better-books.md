@@ -1,6 +1,6 @@
 ---
 title: 'Read books that challenge you'
-category: 'Brain'
+category: 'advanced'
 ---
 
 Read a little bit daily that actually challenges your thinking.
