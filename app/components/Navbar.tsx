@@ -27,7 +27,7 @@ export default function Navbar() {
             </li>
           ))}
         </ul>
-        <SunTimes />
+        {/*<SunTimes /> */}
       </div>
     </nav>
   );
